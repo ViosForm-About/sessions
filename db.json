@@ -9,8 +9,8 @@
     "totalSold": 0,
     "totalEarnings": 0,
     "joinDate": "2025-12-27T04:07:14.457Z",
-    "category": null,
-    "lastActivity": "2025-12-27T04:07:14.458Z",
+    "category": "buy",
+    "lastActivity": "2025-12-27T04:09:20.944Z",
     "status": "active"
   }
 }
