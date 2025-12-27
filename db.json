@@ -1,1 +1,16 @@
-{}
+{
+  "7569608923": {
+    "id": 7569608923,
+    "username": "JeryPets",
+    "firstName": "Jery - Help U",
+    "lastName": "",
+    "balance": 0,
+    "totalBought": 0,
+    "totalSold": 0,
+    "totalEarnings": 0,
+    "joinDate": "2025-12-27T04:07:14.457Z",
+    "category": null,
+    "lastActivity": "2025-12-27T04:07:14.458Z",
+    "status": "active"
+  }
+}
